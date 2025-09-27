@@ -1,28 +1,20 @@
-# Mostafa Faik – E-Portfolio  
+ # Hi, I'm Mostafa 👋
 
-👋 Hej! Jag är en civilingenjörsstudent i informationsteknik vid KTH med ett intresse för IT-support, nätverk och cybersäkerhet.  
+🎓 MSc Engineering in IT @ KTH | Specializing in Cybersecurity  
+💻 Interested in Network Security, Penetration Testing, and Game Development  
+🌱 Currently exploring vulnerability research, Unity projects, and full-stack development  
 
-## 📌 Om Mig  
-- 🎓 Studerar **Civilingenjör i Informationsteknik** vid **KTH**  
-- 💻 Intresserad av **nätverkskonfiguration, cybersäkerhet och systemutveckling**  
-- 🚀 Strävar efter att lösa problem med innovativa tekniska lösningar  
+## 🔧 Tech Stack
+- **Languages**: Java, SQL, Python, JavaScript, C, Prolog  
+- **Tools**: Wireshark, Linux, Git, Docker, Unity  
+- **Domains**: Cybersecurity, Networking, Game Development
 
-## 🔧 Projekt  
-### **Nätverk och kommunikation**  
-- **HTTP och TCP/IP-analys** med Wireshark  
-- **DNS och DHCP-serverkonfiguration** på Linux  
-- **Byggt ett lokalt nätverk** med brandväggsregler  
+## 📌 Featured Projects
+- [Ynnos the Ekamer](https://decisiontree.se) – Turn-based RPG in Unity  
+- Soundgood Music School Database – SQL database with transaction management  
+- Networking Labs – DHCP/DNS setup, TCP server/client in Java
 
-### **Databasprojekt – Soundgood Music School**  
-- Designade en **SQL-databas** för hantering av elevregistrering och betalningar  
-- Implementerade **transaktionshantering och säkerhet** i databasen  
-
-### **Socket Programming & Web Server**  
-- Skapade en **TCP-server och klient i Java**  
-- Implementerade en **HTTP-server** för att hantera webbförfrågningar  
-- Byggde en **konkurrent HTTP-server** för att hantera flera klienter  
-
-## 📬 Kontakt  
+## 📬 Contact  
 📧 **Email:** [mfaik@kth.se](mailto:mfaik@kth.se)  
 🔗 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/mostafa-faik/)  
 🌐 **E-Portfolio:** [github.io/E-portfolio](https://github.com/MiTO-X2/E-portfolio/tree/main)  
